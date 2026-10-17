@@ -48,6 +48,7 @@
   <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="argocd" title="argocd" width="40" height="40"/> </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="helm" title="helm" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" title="jenkins" width="40" height="40"/> </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github-actions" title="github-actions" width="40" height="40"/> </a>
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/nginx/009639" alt="nginx" title="nginx" width="40" height="40"/> </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="prometheus" title="prometheus" width="40" height="40"/> </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" title="grafana" width="40" height="40"/> </a>
