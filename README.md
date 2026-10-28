@@ -8,7 +8,14 @@
   I'm TAGORE GANUGA
 </h1>
 
-<h3 align="center">A Passionate Cloud & DevOps Engineer from India</h3>
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;A+Passionate+Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform"
+  alt="A Passionate Cloud & DevOps Engineer"
+/>
+</a>
+</div>
 
 <!-- Contact Section -->
 <h3 align="left">Connect with me:</h3>
