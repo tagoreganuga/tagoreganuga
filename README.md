@@ -1,12 +1,11 @@
 <!-- Header Section -->
-<h1 align="center">
-  Hi
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="30"
-  />,
-  I'm TAGORE GANUGA
-</h1>
+<p align="center">
+  <img 
+    width="40%" 
+    alt="TAGORE GANUGA" 
+    src="./docs/tagoreganuga.png" 
+  />
+</p>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -85,4 +84,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vs-code" title="vs-code" width="40" height="40"/> 
 </p>
 
-
+<!-- GitHub Contribution Activity -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tagoreganuga/tagoreganuga/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/tagoreganuga/tagoreganuga/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/tagoreganuga/tagoreganuga/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
